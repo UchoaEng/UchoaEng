@@ -46,7 +46,9 @@ My process fits in three verbs: **observe → structure → build.**
 | **[CVnator](https://github.com/UchoaEng/CVnator)** | Agent that finds jobs, tailors the CV without inventing facts and fills applications in a real browser, all running locally. | Python, Ollama, Playwright |
 | **[LimiarTarot](https://github.com/UchoaEng/LimiarTarot)** | Portal to study all 78 cards and interpret physical spreads, with optional local AI. | Next.js 16, Zod, Ollama, Vitest |
 | **[DopamineTyper](https://github.com/UchoaEng/DopamineTyper)** | Typing trainer with streaks, achievements and public-domain texts, because studying can give you dopamine too. | React, TypeScript, Vite, Tailwind, pdf.js |
-| **[Findash](https://github.com/UchoaEng/Findash)** | Personal finance manager with automatic budgets, cards and goals, and no fake data. | Next.js, React, Drizzle ORM, Zod, Recharts, Cloudflare Workers |
+| **[Findash](https://github.com/UchoaEng/Findash)** | Personal finance manager with automatic budgets, cards and goals, and no fake data. | React 19, Vinext, Drizzle ORM, Cloudflare D1, Zod, Recharts |
+| **[Caçapa Russa (FriendSlop)](https://github.com/UchoaEng/SinucationSlop)** | Russian-roulette pool: a first-person multiplayer party game with real pool physics, bots and sabotage. | Unity 6, C#, Netcode for GameObjects, Unity Relay |
+| **[UCtorrent](https://github.com/UchoaEng/UCtorrent)** | Windows desktop BitTorrent client with a local WebUI/API, RSS automation and safety checks. | Python, PySide6, FastAPI, SQLite, libtorrent |
 | **[Portfolio](https://github.com/UchoaEng/Portfolio)** · [devuchoa.dev](https://devuchoa.dev) | My portfolio, synced with the public GitHub API. | React, TypeScript, Tailwind |
 
 ## 🎨 The UX/UI side
@@ -76,7 +78,7 @@ Meu processo cabe em três verbos: **observar → estruturar → construir.**
 - 🇧🇷 João Pessoa, PB · português nativo, inglês avançado.
 
 **Projetos em destaque:** a tabela acima traz cada projeto com link, demo e stack. Em resumo:
-o **Lili Voice Chat** é um chat cifrado com voz, vídeo e tela; o **EasyFit** é um PWA de saúde e treino; o **CVnator** é um agente local de candidaturas; o **LimiarTarot** é um portal de tarô com IA local; o **DopamineTyper** é treino de digitação gamificado; o **Findash** é gestão financeira pessoal; e o **Portfolio** é o meu [devuchoa.dev](https://devuchoa.dev).
+o **Lili Voice Chat** é um chat cifrado com voz, vídeo e tela; o **EasyFit** é um PWA de saúde e treino; o **CVnator** é um agente local de candidaturas; o **LimiarTarot** é um portal de tarô com IA local; o **DopamineTyper** é treino de digitação gamificado; o **Findash** é gestão financeira pessoal; o **Caçapa Russa (FriendSlop)** é um party game de sinuca com roleta-russa feito em Unity; o **UCtorrent** é um cliente BitTorrent para desktop; e o **Portfolio** é o meu [devuchoa.dev](https://devuchoa.dev).
 
 **Lado UX/UI:** antes do código vem o problema. Os cases de produto estão no [Behance](https://www.behance.net/Lucas_-vieira) e no [portfólio](https://devuchoa.dev).
 
