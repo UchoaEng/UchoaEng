@@ -41,7 +41,7 @@ My process fits in three verbs: **observe → structure → build.**
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Lili Voice Chat](https://github.com/UchoaEng/Lili_Voice_Chat)** · [demo](https://lilivoicechat-five.vercel.app) | Local-first client for encrypted messaging, voice, video and screen sharing, on web and desktop. | React 19, TypeScript, Electron, Supabase, LiveKit, OpenMLS |
+| **[Lili Voice Chat](https://github.com/UchoaEng/Lili_Voice_Chat)** · [demo](https://lilivoicechat-five.vercel.app) | Discord-style client for messaging, voice, video and screen sharing, on web and Windows desktop. | React, TypeScript, Electron, Supabase, LiveKit |
 | **[EasyFit](https://github.com/UchoaEng/EasyFit)** · [demo](https://easy-fit-phi.vercel.app) | Health PWA: food diary, nutrition goals, body measurements and workouts, with a barcode scanner. | Next.js 16, Prisma, PostgreSQL, Zod, Playwright |
 | **[CVnator](https://github.com/UchoaEng/CVnator)** | Agent that finds jobs, tailors the CV without inventing facts and fills applications in a real browser, all running locally. | Python, Ollama, Playwright |
 | **[LimiarTarot](https://github.com/UchoaEng/LimiarTarot)** | Portal to study all 78 cards and interpret physical spreads, with optional local AI. | Next.js 16, Zod, Ollama, Vitest |
@@ -78,7 +78,7 @@ Meu processo cabe em três verbos: **observar → estruturar → construir.**
 - 🇧🇷 João Pessoa, PB · português nativo, inglês avançado.
 
 **Projetos em destaque:** a tabela acima traz cada projeto com link, demo e stack. Em resumo:
-o **Lili Voice Chat** é um chat cifrado com voz, vídeo e tela; o **EasyFit** é um PWA de saúde e treino; o **CVnator** é um agente local de candidaturas; o **LimiarTarot** é um portal de tarô com IA local; o **DopamineTyper** é treino de digitação gamificado; o **Findash** é gestão financeira pessoal; o **Caçapa Russa (FriendSlop)** é um party game de sinuca com roleta-russa feito em Unity; o **UCtorrent** é um cliente BitTorrent para desktop; e o **Portfolio** é o meu [devuchoa.dev](https://devuchoa.dev).
+o **Lili Voice Chat** é um chat no estilo Discord com voz, vídeo e tela; o **EasyFit** é um PWA de saúde e treino; o **CVnator** é um agente local de candidaturas; o **LimiarTarot** é um portal de tarô com IA local; o **DopamineTyper** é treino de digitação gamificado; o **Findash** é gestão financeira pessoal; o **Caçapa Russa (FriendSlop)** é um party game de sinuca com roleta-russa feito em Unity; o **UCtorrent** é um cliente BitTorrent para desktop; e o **Portfolio** é o meu [devuchoa.dev](https://devuchoa.dev).
 
 **Lado UX/UI:** antes do código vem o problema. Os cases de produto estão no [Behance](https://www.behance.net/Lucas_-vieira) e no [portfólio](https://devuchoa.dev).
 
