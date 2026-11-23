@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Lucas Uchôa 👋</h1>
 
 <p align="center">
-  <strong>Product Designer with a fullstack background</strong><br>
+  <strong>Software Engineer focused on data analysis · Product Designer with a fullstack background</strong><br>
   Between the right question and a working product.
 </p>
 
@@ -14,6 +14,8 @@
 <p align="center"><a href="#-português">🇧🇷 Leia em português</a></p>
 
 ---
+
+Today I work as a **Software Engineer focused on data analysis**: turning product and operational data into dashboards, metrics and decisions.
 
 I started out writing code, spent years designing interfaces and researching users, and now I live right in the middle: **I understand the product problem, design the experience and ship it**. About 6 years across UX/UI, research, data and development, always asking the same thing: *does this actually solve the problem for the person using it?*
 
@@ -59,7 +61,9 @@ I'm looking for **Product, Technology/Fullstack or UX/UI** challenges where tech
 
 ## 🇧🇷 Português
 
-**Product Designer com background fullstack**, entre a pergunta certa e o produto funcionando.
+**Software Engineer focado em análise de dados · Product Designer com background fullstack**, entre a pergunta certa e o produto funcionando.
+
+Hoje trabalho como **Software Engineer focado em análise de dados**: transformo dados de produto e de operação em dashboards, métricas e decisões.
 
 Comecei escrevendo código, passei anos desenhando interfaces e pesquisando usuários, e hoje vivo no meio do caminho: **entendo o problema de produto, desenho a experiência e coloco no ar**. São uns 6 anos entre UX/UI, pesquisa, dados e desenvolvimento, sempre com a mesma pergunta na cabeça: *isso resolve o problema de quem vai usar?*
 
